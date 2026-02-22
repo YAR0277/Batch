@@ -1,1 +1,5 @@
 *.txt
+!Equity.txt
+!ETF.txt
+!Index.txt
+!Intraday.txt
