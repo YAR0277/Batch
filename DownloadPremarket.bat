@@ -1,0 +1,3 @@
+@echo off
+echo Download Premarket ...
+"C:\Users\drdav\Projects\Python\.venv\Scripts\python.exe" "C:\Users\drdav\Projects\Python\download_premarket.py"
