@@ -17,5 +17,3 @@ sleep 1
 echo "Download Index ..."
 python /home/david/Projects/Python/download_index.py
 
-# Wait for user input (like pause in Windows)
-read -p "Press Enter to continue..."
