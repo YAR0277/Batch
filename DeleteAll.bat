@@ -1,10 +1,10 @@
 @echo off
 
 for %%F in (
-"C:\home\david\data\finance\equity"
-"C:\home\david\data\finance\etf"
-"C:\home\david\data\finance\index"
-"C:\home\david\data\finance\intraday"
+"C:\Users\drdav\data\finance\equity"
+"C:\Users\drdav\data\finance\etf"
+"C:\Users\drdav\data\finance\index"
+"C:\Users\drdav\data\finance\intraday"
 ) do (
     if exist "%%~F\" (
         echo Deleting CSV files in %%~F...
