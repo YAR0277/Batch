@@ -1,4 +1,7 @@
 CNH
 CNQ
+GD
 LHX
+LMT
 NOC
+RTX
