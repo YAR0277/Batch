@@ -1,5 +1,7 @@
 CNH
 CNQ
+DELL
+FDX
 GD
 LHX
 LMT

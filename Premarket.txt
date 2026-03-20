@@ -1,4 +1,9 @@
 IBB
 IVV
+IWR
+IWS
+LHX
+LMT
 NOC
+RTX
 SH
