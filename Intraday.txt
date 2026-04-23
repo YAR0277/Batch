@@ -2,9 +2,5 @@
 ^GSPC
 ^NDX
 DAVE
-DELL
-GLD
-HWM
 IWN
-SPOT
 
