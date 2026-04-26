@@ -1,6 +1,7 @@
 BWET
 GLD
 IVV
+SMH
 USO
 XAR
 XLK
