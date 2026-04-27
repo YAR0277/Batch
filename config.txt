@@ -1,0 +1,4 @@
+# data frequency can be [week,day]
+dataFrequency=week
+# Simple Moving Average window length
+SMAWindowLength=14
