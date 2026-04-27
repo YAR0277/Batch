@@ -1,4 +1,8 @@
 # data frequency can be [week,day]
-dataFrequency=week
-# Simple Moving Average window length
+dataFrequency=day
+# SMA window length
 SMAWindowLength=14
+# EMA window length
+EMAWindowLength=20
+# EMA smoothing parameter
+EMAAlpha=0.1
