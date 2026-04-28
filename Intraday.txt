@@ -1,8 +1,8 @@
 ^DJI
 ^GSPC
 ^NDX
+BWET
 FDX
 QQQ
-USO
 VOO
 
