@@ -1,6 +1,7 @@
 BWET
 GLD
 IVV
+QQQ
 SMH
 USO
 XAR
