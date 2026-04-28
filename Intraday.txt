@@ -2,5 +2,7 @@
 ^GSPC
 ^NDX
 FDX
+QQQ
 USO
+VOO
 
