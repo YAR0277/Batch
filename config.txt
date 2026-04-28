@@ -6,3 +6,5 @@ SMAWindowLength=14
 EMAWindowLength=20
 # EMA smoothing parameter
 EMAAlpha=0.1
+# Momentum Length = last number of values to calculate momentum from
+MomentumLength = 5

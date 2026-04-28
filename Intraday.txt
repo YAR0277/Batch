@@ -1,10 +1,6 @@
 ^DJI
 ^GSPC
 ^NDX
-CAT
-DAVE
 FDX
-IWN
-SMH
-XLK
+USO
 
