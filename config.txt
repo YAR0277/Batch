@@ -1,5 +1,5 @@
 # data frequency can be [week,day,intraday]
-dataFrequency=day
+dataFrequency=week
 # SMA window length
 SMAWindowLength=14
 # EMA window length
