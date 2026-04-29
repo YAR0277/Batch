@@ -1,8 +1,6 @@
 ^DJI
 ^GSPC
 ^NDX
-BWET
-FDX
-QQQ
-VOO
-
+DELL
+SMH
+USO
