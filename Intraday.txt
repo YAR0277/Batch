@@ -1,6 +1,7 @@
 ^DJI
 ^GSPC
 ^NDX
-DELL
-SMH
 USO
+XLU
+XLI
+XLP
