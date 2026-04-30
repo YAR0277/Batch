@@ -1,5 +1,5 @@
 # data frequency can be [week,day,intraday]
-dataFrequency=intraday
+dataFrequency=day
 # SMA window length
 SMAWindowLength=14
 # EMA window length
@@ -8,3 +8,7 @@ EMAWindowLength=20
 EMAAlpha=0.1
 # Momentum Length = last number of values to calculate momentum from
 MomentumLength = 5
+# Number of previous acceleration to Test
+NumAccelValsTest = 5
+# Number of previous acceleration values to ouput
+NumAccelValsOutput = 5
