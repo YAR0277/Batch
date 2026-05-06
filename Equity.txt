@@ -1,8 +1,5 @@
 AMD
-CNQ
 DELL
 FDX
-INTC
 MU
-STX
-WDC
+

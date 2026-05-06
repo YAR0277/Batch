@@ -1,8 +1,5 @@
 ^DJI
 ^GSPC
-FDX
-INTC
+AMD
 MU
-SH
-VOO
-VTI
+WDC

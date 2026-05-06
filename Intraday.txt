@@ -2,7 +2,7 @@
 ^GSPC
 ^NDX
 AMD
+DELL
 FDX
 MU
-VTI
-WDC
+SMH
