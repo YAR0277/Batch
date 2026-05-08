@@ -1,5 +1,5 @@
-^DJI
-^GSPC
 AMD
+DELL
+INTC
 MU
-WDC
+SMH
