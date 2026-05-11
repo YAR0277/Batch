@@ -1,8 +1,5 @@
 ^DJI
 ^GSPC
 ^NDX
-AMD
 DELL
-FDX
-MU
 SMH

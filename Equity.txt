@@ -1,5 +1,5 @@
 AMD
 DELL
-FDX
+INTC
 MU
-
+WDC

@@ -1,0 +1,16 @@
+symbol
+previousClose
+trailingPE
+forwardPE
+trailingEps
+forwardEps
+pegRatio
+priceToBook
+marketCap
+grossProfits
+freeCashflow
+earningsGrowth
+revenueGrowth
+grossMargins
+beta
+dividendYield
