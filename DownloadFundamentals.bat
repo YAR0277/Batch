@@ -1,0 +1,3 @@
+@echo off
+echo Download Fundamentals ...
+"C:\Users\drdav\Projects\Python\.venv\Scripts\python.exe" "C:\Users\drdav\Projects\Python\download_fundamentals.py"
