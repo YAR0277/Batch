@@ -1,5 +1,4 @@
 ^DJI
 ^GSPC
 ^NDX
-DELL
 SMH
