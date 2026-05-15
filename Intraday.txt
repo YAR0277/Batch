@@ -1,4 +1,7 @@
 ^DJI
 ^GSPC
 ^NDX
+DELL
+NVDA
 SMH
+VTI
