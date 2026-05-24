@@ -1,9 +1,0 @@
-@echo off
-echo Download ETF ...
-"C:\Users\drdav\Projects\Python\.venv\Scripts\python.exe" "C:\Users\drdav\Projects\Python\download_etf_weekly.py"
-timeout /t 1 >nul
-echo Download Equity ...
-"C:\Users\drdav\Projects\Python\.venv\Scripts\python.exe" "C:\Users\drdav\Projects\Python\download_equity_weekly.py"
-timeout /t 1 >nul
-echo Download Index ...
-"C:\Users\drdav\Projects\Python\.venv\Scripts\python.exe" "C:\Users\drdav\Projects\Python\download_index_weekly.py"

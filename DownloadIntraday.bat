@@ -1,3 +1,0 @@
-@echo off
-echo Download Intraday ...
-"C:\Users\drdav\Projects\Python\.venv\Scripts\python.exe" "C:\Users\drdav\Projects\Python\download_intraday.py"
