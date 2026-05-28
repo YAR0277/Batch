@@ -1,5 +1,5 @@
 # data frequency can be [week,day,intraday,extended]
-dataFrequency=extended
+dataFrequency=day
 # SMA window length
 SMAWindowLength=14
 # EMA window length
@@ -12,3 +12,5 @@ MomentumLength = 5
 NumAccelValsTest = 5
 # Number of previous acceleration values to ouput
 NumAccelValsOutput = 5
+# price type can be [open,high,low,close]
+PriceType=close
