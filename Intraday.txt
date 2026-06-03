@@ -1,6 +1,5 @@
 ^DJI
 ^GSPC
 ^NDX
-DELL
-SMH
-VTI
+SOXQ
+WDC
