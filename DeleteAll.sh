@@ -7,6 +7,7 @@ folders=(
     "/home/david/data/finance/index"
     "/home/david/data/finance/intraday"
     "/home/david/data/finance/extended"
+    "/home/david/data/finance/options"
 )
 
 # Loop through each folder and delete CSV files
