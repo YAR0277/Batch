@@ -1,5 +1,5 @@
 # data frequency can be [week,day,intraday,extended]
-dataFrequency=intraday
+dataFrequency=extended
 # SMA window length
 SMAWindowLength=14
 # EMA window length
@@ -10,7 +10,12 @@ EMAAlpha=0.1
 MomentumLength = 5
 # Number of previous acceleration to Test
 NumAccelValsTest = 5
-# Number of previous acceleration values to ouput
+# Number of previous acceleration values to output
 NumAccelValsOutput = 5
 # price type can be [open,high,low,close]
 PriceType=close
+# Number of strike prices to show
+NumStrikePrices = 5
+# The risk free interest rate
+RiskFreeInterestRate = 0.03
+
