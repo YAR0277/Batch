@@ -13,4 +13,5 @@ revenueGrowth
 pegRatio
 priceToBook
 beta
+dividendRate
 dividendYield

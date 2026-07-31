@@ -15,7 +15,7 @@ NumAccelValsOutput = 5
 # price type can be [open,high,low,close]
 PriceType=close
 # Number of strike prices to show
-NumStrikePrices = 10
+NumStrikePrices = 30
 # The risk free interest rate
 RiskFreeInterestRate = 0.03
 
