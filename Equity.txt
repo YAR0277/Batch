@@ -6,4 +6,3 @@ MNST
 NVDA
 PEP
 V
-
