@@ -3,6 +3,5 @@ ADP
 EIX
 KO
 MNST
-NVDA
 PEP
 V
